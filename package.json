@@ -1,0 +1,16 @@
+{
+  "name": "epm-virtual",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cfenv": "^1.2.3",
+    "dotenv": "^8.2.0",
+    "ibm-watson": "^5.7.1"
+  }
+}
